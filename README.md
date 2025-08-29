@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @ramanakamidi  <br>- 👀 I’m interested in Web Development, DS with Python and IoT  <br>- 🌱 I’m currently learning MERN Stack <br> - 💻 Ask me about MERN Stack<br>- 🚀 Projects: Online Code Compiler, Text-to-Image Generator, Dynamic Temperature Tracker, Portfolio Website  <br>- 📫 How to reach me: **ramanareddykamidi123@gmail.com**  <br>- 💼 LinkedIn: [linkedin.com/in/ramana-kamidi](https://linkedin.com/in/ramana-kamidi)  <br>
+- 👋 Hi, I’m @ramanakamidi  <br>- 👀 I’m interested in Web Development, DS with Python and IoT  <br>- 🌱 I’m currently learning MERN Stack <br> - 💻 Ask me about MERN Stack<br>- 📫 How to reach me: **ramanareddykamidi123@gmail.com**  <br>- 💼 LinkedIn: [linkedin.com/in/ramana-kamidi](https://linkedin.com/in/ramana-kamidi)  <br>
 
 
 # 💻 Tech Stack:
