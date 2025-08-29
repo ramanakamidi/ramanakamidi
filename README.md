@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramanakamidi
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning react.js python and database
+- 🌱 I’m currently learning Mern Stack
 - 📫 How to reach me  ramanareddykamidi123@gmail.com
 - 
 <!---
